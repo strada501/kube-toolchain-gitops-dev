@@ -92,9 +92,6 @@ stages:
   - name: GITLAB_GROUP_NAME
     value: ${GITLAB_GROUP_NAME}
     type: text
-  - name: GITLAB_COMMONS_PROJECT_NAME
-    value: ${GITLAB_COMMONS_PROJECT_NAME}
-    type: text
   - name: GITLAB_OPS_PROJECT_NAME
     value: ${GITLAB_OPS_PROJECT_NAME}
     type: text
